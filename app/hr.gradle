@@ -1,0 +1,8 @@
+apply plugin: 'pl.droidsonroids.hr.feedback'
+
+fuko {
+	emphatic 10
+	analytical 10
+	spontaneous 5
+	dominant 15
+}

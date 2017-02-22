@@ -1,0 +1,3 @@
+Map<String, ?> pluginMap = new HashMap<>();
+pluginMap.put('plugin', 'com.android.application');
+project.apply(pluginMap)
